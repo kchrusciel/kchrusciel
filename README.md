@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on migration from Wordpress to Hexo
-- 🌱 I’m currently learning Hexo
-- 👯 I’m looking to collaborate on Java/Go projects
+- 🔭 I’m currently working on GIT presentation
+- 🌱 I’m currently learning serverless arch on AWS
+- 👯 I’m looking to collaborate on Java/Go/Rust projects
 - 💬 Ask me about everything 
-- 📫 How to reach me: https://codecouple.pl
+- 📫 How to reach me: https://CodeCouple.pl
